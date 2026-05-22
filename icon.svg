@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="28" fill="#7c3aed"/>
+  <path d="M64 30c-5 0-9 4-9 9 0 3 1 5 3 7l-22 12c-3 1-4 4-3 7l4 9c1 3 4 4 7 3l9-3v22c0 3 2 5 5 5h12c3 0 5-2 5-5V74l9 3c3 1 6 0 7-3l4-9c1-3 0-6-3-7L70 46c2-2 3-4 3-7 0-5-4-9-9-9z" fill="#ffffff"/>
+  <text x="64" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="800" fill="#ffffff">МО</text>
+</svg>
